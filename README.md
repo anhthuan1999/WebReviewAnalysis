@@ -7,8 +7,8 @@ The linear model
 
 The rbf model
 <br/>
-![Image of Bag of Words Unigram](https://raw.githubusercontent.com/anhthuan1999/WebAnalysis_University-Course/master/results/unibo.png)<br/>
-![Image of TF-IDF Unigram](https://raw.githubusercontent.com/anhthuan1999/WebAnalysis_University-Course/master/results/unitf.png) <br/>
-![Image of Bag of Words Bigram](https://raw.githubusercontent.com/anhthuan1999/WebAnalysis_University-Course/master/results/bibo.png)<br/>
-![Image of TF-IDF Bigram](https://raw.githubusercontent.com/anhthuan1999/WebAnalysis_University-Course/master/results/bitf.png) <br/>
+![Image of Bag of Words Unigram](https://raw.githubusercontent.com/anhthuan1999/WebAnalysis_University-Course/master/results/unibo.jpg)<br/>
+![Image of TF-IDF Unigram](https://raw.githubusercontent.com/anhthuan1999/WebAnalysis_University-Course/master/results/unitf.jpg) <br/>
+![Image of Bag of Words Bigram](https://raw.githubusercontent.com/anhthuan1999/WebAnalysis_University-Course/master/results/bibo.jpg)<br/>
+![Image of TF-IDF Bigram](https://raw.githubusercontent.com/anhthuan1999/WebAnalysis_University-Course/master/results/bitf.jpg) <br/>
 The best model is linear SVM model with F1_Score is 79.44%, C is 100 or 1000. After that, we apply this model with book "Nhà Giả Kim" which has more than 3000 comments and analyze product features
