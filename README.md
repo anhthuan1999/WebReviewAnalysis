@@ -28,4 +28,4 @@ Our project is made by 404NotFound Team:
 3. Thai Ngo Hoang
 4. Thuan Tran Anh
 5. Truc Tang Thanh <br/>
-If you have any questions, please contact: thuanta17411@st.uel.edu.vn
+If you have any questions, please contact: anhthuan1389@gmail.com
